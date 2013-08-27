@@ -1,0 +1,1 @@
+this is android application for coupomax . this is used by clients to have best user interface.
